@@ -16,14 +16,14 @@
 //   return result;
 // }
 
-// const x = (str) => {
+// export const x = (str) => {
 //   let newStr = ""
 //   for(let i = 0; i < str.length; i++){
 //    newStr += y(i,str[i])
 //   }
 //   return newStr;
 // }
-// console.log(x(str));
+
 
 
 // 3-misol

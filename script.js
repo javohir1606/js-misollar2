@@ -73,6 +73,8 @@
 
 // 2-misol
 // import { str } from "./data.js";
+// import { x } from "./data.js";
+// console.log(x(str));
 
 
 // 3-misol
