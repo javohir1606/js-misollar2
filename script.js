@@ -64,55 +64,16 @@
 
 
 // uygi-vazifa
+// 1-misol
+// import { arr } from "./data.js";
+// import { Person } from "./constructors.js";
+// import { juftSon } from "./functions.js";
 
-// // mj.js - Main Script
-// import { add, subtract, multiply, divide } from './mathFunctions.js';
-// import { appName, version, author } from './config.js';
-// import { User } from './User.js';
+// console.log(arr);
 
-// console.log(`${appName} v${version} muallifi: ${author}`);
-
-// // Math funksiyalaridan foydalanish
-// let x = 10, y = 5;
-// console.log(`Qo'shish: ${x} + ${y} = `, add(x, y));
-// console.log(`Ayirish: ${x} - ${y} = `, subtract(x, y));
-// console.log(`Ko'paytirish: ${x} * ${y} = `, multiply(x, y));
-// console.log(`Bo'lish: ${x} / ${y} = `, divide(x, y));
-
-// // User konstruktor funksiyasidan foydalanish
-// let user1 = new User("John Doe", 30);
-// console.log(user1.getInfo());
+// 2-misol
+// import { str } from "./data.js";
 
 
-
-// function hasUniqueCharacters(s) {
-//   // Set objectini yaratamiz va stringning har bir harfini unga qo'shamiz
-//   const charSet = new Set();
-
-//   for (let char of s) {
-//       if (charSet.has(char)) {
-//           return false; // Agar harf oldin uchragan bo'lsa, false qaytaramiz
-//       }
-//       charSet.add(char);
-//   }
-
-//   return true; // Agar harflar takrorlanmagan bo'lsa, true qaytaramiz
-// }
-
-// // Misollar:
-// console.log(hasUniqueCharacters("abcdef"));  // True qaytaradi
-// console.log(hasUniqueCharacters("hello"));   // False qaytaradi
-
-
-
-// Funktsiyalarni eksport qilamiz
-export function divide(a, b) {
-  if (b === 0) {
-      throw new Error("0 ga bo'lish mumkin emas!");
-  }
-  return a / b;
-}
-
-export function multiply(a, b) {
-  return a * b;
-}
+// 3-misol
+// import { str } from "./data.js";
