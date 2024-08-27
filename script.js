@@ -79,3 +79,20 @@
 
 // 3-misol
 // import { str } from "./data.js";
+
+// 4-misol
+// import { arr } from "./data.js"
+// console.log(arr);
+
+// 5-misol
+// import { arr } from "./data.js"
+// console.log(arr);
+
+// 6-misol
+// import { count } from "./data.js"
+// console.log(count);
+
+// 7-misol
+// import { arr } from "./data.js"
+// console.log(arr);
+
